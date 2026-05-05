@@ -67,7 +67,7 @@ Use Windows Task Scheduler:
 3. Program/script:
 
    ```text
-   D:\codeing\Tele_bot\.venv\Scripts\python.exe
+   .\.venv\Scripts\python.exe
    ```
 
 4. Arguments:
@@ -79,7 +79,7 @@ Use Windows Task Scheduler:
 5. Start in:
 
    ```text
-   D:\codeing\Tele_bot
+   .\Tele_bot
    ```
 
 You can also use NSSM if you prefer running it as a Windows service.
